@@ -6,7 +6,7 @@ title: NASA Photo Of The Day
 thumbnail: /assets/nasapod.png
 metaDescription: 'NASA, React'
 ---
-## This was a small React project that I got super interested in and fleshed out a nice site .
+## This was a small React project that I got super interested in and fleshed out a nice site.
 
 A typical school day at Lambda consists of 2 hours of lecture and a project after lunch that you have ~4 hours to complete.
 
