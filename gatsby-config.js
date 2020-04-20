@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: `Katie Rose Felten - Web Developer`,
     description: `A portfolio for what I'm working on.`,
-    siteUrl: `https://kt-net-gats.netlify.app/`,
+    siteUrl: `https://ktrosedev.netlify.app/`,
     home: {
       title: ``,
       description: `I like to work with React, React Native, Node.js, JAMstack solutions, and more. Based in Atlanta, GA.`,
