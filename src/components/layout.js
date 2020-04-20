@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className='site-footer'>
-        <p>&copy; 2020 Katie Rose Felten</p>
+        <p>&copy; 2020 Katie Rose Felten | Built with Gatsby + Netlify CMS</p>
       </footer>
     </div>
   );
