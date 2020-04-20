@@ -36,6 +36,9 @@ export default function Template({
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
+        <div className='post-link' className='button -primary'>
+          {frontmatter.siteLink}
+        </div>
       </div>
     </Layout>
   );

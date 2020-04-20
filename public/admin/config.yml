@@ -27,3 +27,7 @@ collections:
         name: metaDescription
         widget: text
         required: false
+      - label: Link
+        name: siteLink
+        widget: text
+        required: false
