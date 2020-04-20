@@ -11,7 +11,7 @@ module.exports = {
     description: `A portfolio for what I'm working on.`,
     siteUrl: `https://kt-net-gats.netlify.app/`,
     home: {
-      title: `Hi! I'm Katie`,
+      title: ``,
       description: `I like to work with React, React Native, Node.js, JAMstack solutions, and more. Based in Atlanta, GA.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
