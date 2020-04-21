@@ -12,7 +12,7 @@ module.exports = {
     siteUrl: `https://ktrosedev.netlify.app/`,
     home: {
       title: ``,
-      description: `I like to work with React, React Native, Node.js, JAMstack solutions, and more. Based in Atlanta, GA.`,
+      description: `💻 I'm interested in working with React, React Native, Node.js, JAMstack solutions, and more. 🍑 Based in Atlanta, GA.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify`,
