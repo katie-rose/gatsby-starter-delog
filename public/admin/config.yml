@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: katie-rose/gatsby-starter-delog
+  repo: katie-rose/portfolio
 media_folder: static/assets
 public_folder: /assets
 collections:
@@ -23,7 +23,6 @@ collections:
           config:
             multiple: false
       - { name: body, label: Body, widget: markdown }
-      - { name: siteLink, label: Link, widget: markdown }
       - label: Meta Description
         name: metaDescription
         widget: text
