@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: katie-rose/gatsby-starter-delog
+  repo: katie-rose/portfolio
 media_folder: static/assets
 public_folder: /assets
 collections:
