@@ -3,7 +3,7 @@ template: BlogPost
 path: /keycon
 date: 2020-03-27T16:37:10.156Z
 title: Key Conservation
-thumbnail: /assets/Copy of keycon.png
+thumbnail: /assets/keycon2.png
 metaDescription: 'wildlife conservation, react native'
 siteLink: ''
 ---
