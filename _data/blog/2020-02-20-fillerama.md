@@ -5,7 +5,7 @@ date: 2020-03-09T13:59:36.571Z
 title: Key Conservation
 thumbnail: /assets/keycon1.png
 metaDescription: 'wildlife conservation, react native'
-siteLink: '## [Key Conservation](https://keyconservation.org'
+siteLink: '## [Key Conservation](https://keyconservation.org)'
 ---
 ## [Key Conservation](https://keyconservation.org) is helping conservationists gain critical funding and global support through a mobile app that provides real-time updates on day-to-day campaigns.
 
