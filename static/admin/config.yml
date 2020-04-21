@@ -23,12 +23,8 @@ collections:
           config:
             multiple: false
       - { name: body, label: Body, widget: markdown }
+      - { name: siteLink, label: Link, widget: markdown }
       - label: Meta Description
         name: metaDescription
         widget: text
-        required: false
-      - label: Link
-        name: siteLink
-        widget: markdown
-        buttons: link
         required: false
