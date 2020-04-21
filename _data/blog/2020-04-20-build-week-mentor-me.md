@@ -5,6 +5,7 @@ date: 2019-05-24T17:50:36.781Z
 title: Build Week - Mentor Me
 thumbnail: /assets/mentorme.png
 metaDescription: 'build week, Lambda School'
+siteLink: '## [Mentor Me](https://mentorme-katie.netlify.app/)'
 ---
 ## My role was a UI Developer during this first build week project for Lambda School.
 
