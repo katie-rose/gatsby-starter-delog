@@ -25,3 +25,6 @@ Our assignment was to create a site that operated as Yelp, but for hair stylists
 **Profile Feature**
 
 Every stylist had a stylist type list (barber, cosmetologist, stylist, etc) avatar, bio, and rating. Below that was a list of services with prices they set themselves, a booking option, a portfolio, and an address listed.
+
+<div align="center">
+<a href="https://haircare-bw.netlify.app/" class="post-button">View Website</a></div>
