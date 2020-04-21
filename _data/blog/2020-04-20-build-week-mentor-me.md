@@ -18,4 +18,4 @@ For this project, I was wrapping up my intro to web studies (HTML, CSS, JavaScri
 Images were from [unDraw.org](https://undraw.co/), created by [Katerina Limpitsouni](https://twitter.com/ninaLimpi).
 
 <div align="center">
-<a href="hhttps://mentorme-katie.netlify.app/" class="post-button">View Website</a></div>
+<a href="https://mentorme-katie.netlify.app/" class="post-button">View Website</a></div>
