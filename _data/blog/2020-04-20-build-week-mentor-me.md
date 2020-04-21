@@ -2,7 +2,7 @@
 template: BlogPost
 path: /mentorme
 date: 2019-05-24T17:50:36.781Z
-title: Build Week - Mentor Me
+title: Build Week Project - Mentor Me
 thumbnail: /assets/mentorme.png
 metaDescription: 'build week, Lambda School'
 siteLink: '## [Mentor Me](https://mentorme-katie.netlify.app/)'
