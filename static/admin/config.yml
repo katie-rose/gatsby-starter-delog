@@ -29,5 +29,6 @@ collections:
         required: false
       - label: Link
         name: siteLink
-        widget: text
+        widget: markdown
+        buttons: link
         required: false
