@@ -16,6 +16,33 @@ body {
   background-color: #fff;
   //background-color: #fff;
   border-top: 10px solid $primary-color;
+  .button {
+    padding: 18px 27px;
+    display: inline-block;
+    background: #fff;
+    border: 1px solid #d3d6e7;
+    border-radius: 9px;
+    text-decoration: none;
+    color: #868892;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 20px 0 0;
+    transition: background-color 0.3s linear;
+    &.-primary {
+      background-color: $primary-color;
+      border-color: $primary-color;
+      color: $primary-text-color;
+      &:hover {
+        background-color: #10072b;
+        color: #fff;
+        text-decoration: none;
+      }
+    }
+    &:hover {
+      background-color: #d3d6e7;
+      color: #00062b;
+    }
+  }
 }
 a {
   color: $primary-color;
@@ -23,7 +50,35 @@ a {
   &:hover {
     text-decoration: underline;
   }
+  .button {
+    padding: 18px 27px;
+    display: inline-block;
+    background: #fff;
+    border: 1px solid #d3d6e7;
+    border-radius: 9px;
+    text-decoration: none;
+    color: #868892;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 20px 0 0;
+    transition: background-color 0.3s linear;
+    &.-primary {
+      background-color: $primary-color;
+      border-color: $primary-color;
+      color: $primary-text-color;
+      &:hover {
+        background-color: #10072b;
+        color: #fff;
+        text-decoration: none;
+      }
+    }
+    &:hover {
+      background-color: #d3d6e7;
+      color: #00062b;
+    }
+  }
 }
+
 .site-wrapper {
   padding: 32px;
   max-width: 1140px;

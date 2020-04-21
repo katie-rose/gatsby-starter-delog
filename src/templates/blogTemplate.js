@@ -28,14 +28,13 @@ export default function Template({
               style={{ backgroundImage: `url(${frontmatter.thumbnail})` }}
             >
               <h1 className='post-title'>{frontmatter.title}</h1>
-              <div className='post-meta'>{frontmatter.date}</div>
+              {/* <div className='post-meta'>{frontmatter.date}</div> */}
             </div>
           )}
           <div
             className='blog-post-content'
             dangerouslySetInnerHTML={{ __html: html }}
           />
-          <div className='button -primary'>{frontmatter.siteLink}</div>
         </article>
       </div>
     </Layout>
