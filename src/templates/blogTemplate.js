@@ -35,8 +35,8 @@ export default function Template({
             className='blog-post-content'
             dangerouslySetInnerHTML={{ __html: html }}
           />
+          <div className='button -primary'>{frontmatter.siteLink}</div>
         </article>
-        <div className='button -primary'>{frontmatter.siteLink}</div>
       </div>
     </Layout>
   );
