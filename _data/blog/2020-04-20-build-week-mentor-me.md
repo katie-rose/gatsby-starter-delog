@@ -16,3 +16,6 @@ It's basically a fancy way of saying I had to make a website built only with HTM
 For this project, I was wrapping up my intro to web studies (HTML, CSS, JavaScript) before heading into React. This was a final project to test what I have learned and apply it within a team of other developers.
 
 Images were from [unDraw.org](https://undraw.co/), created by [Katerina Limpitsouni](https://twitter.com/ninaLimpi).
+
+<div align="center">
+<a href="hhttps://mentorme-katie.netlify.app/" class="post-button">View Website</a></div>
