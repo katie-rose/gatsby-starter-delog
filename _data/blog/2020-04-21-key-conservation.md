@@ -12,4 +12,4 @@ siteLink: ''
 I was a Team Lead for this project for 6 months and a student for 16 weeks.
 
 <div align="center">
-<button class="button -primary"><a href="https://keyconservation.org">View Website</a></button></div>
+<button class="button"><a href="https://keyconservation.org">View Website</a></button></div>
