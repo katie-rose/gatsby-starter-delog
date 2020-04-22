@@ -45,7 +45,11 @@ Going into maps, that was quite the intimidating task. A few days of straight re
 
 We went with React Native Maps (created by the always awesome Airbnb) and React Native Location IQ for the coordinates support.
 
-![React Native Maps](/assets/IMG_9870.PNG)
+<div align="center">
+
+![React Native Maps](/assets/maps.png)
+
+</div>
 
 One of my awesome female students [Ellen](https://github.com/wengyilun) was the lead on setting up the map search component, which also had a filter for people to find an organization either by the city they are located in or by their name. 
 
