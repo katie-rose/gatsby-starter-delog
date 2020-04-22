@@ -26,9 +26,9 @@ body.light {
 body.dark {
   --primary-color: #d584b6;
   --primary-text-color: #fff;
-  --featured-bg: #8d5777;
+  --featured-bg: #8d576e;
   --featured-text: #fff;
-  --secondary-color: #8d5777;
+  --secondary-color: #8d576c;
   --background: #2e071a;
   --text-color: rgba(255, 255, 255, 0.88);
   --text-secondary-color: rgba(255, 255, 255, 0.66);
@@ -252,13 +252,12 @@ a {
   }
 }
 .form-container {
-  background-color: #f7f8fe;
+  background-color: #8d576c;
   padding: 32px;
-  border: 1px solid #d3d6e7;
   border-radius: 9px;
   label {
     display: block;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.3rem;
   }
   input[type='text'],
   input[type='email'],
@@ -270,10 +269,14 @@ a {
     padding: 6px 12px;
     width: calc(100% - 24px);
     margin-bottom: 1.5rem;
+    margin-top: 0.8rem;
   }
   textarea {
     margin-bottom: 2rem;
     height: 150px;
+  }
+  p {
+    font-size: 1.2rem;
   }
 }
 .two-grids {
