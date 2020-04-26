@@ -8,7 +8,7 @@ metaDescription: build week, Lambda School
 ---
 ## My role was a Front-End Architect during this third build week project for Lambda School.
 
-### Built with: React, Redux, Java, + OAuth2
+### Built with: React, Redux, Java, + OAuth2  |  [Github](https://github.com/bw-haircare)
 
 I helped two other women, [Jade Lopez](https://github.com/jadeli1720) and [Eunice Baiden](https://github.com/ebisLab) build out the front-end part of this project. They fleshed out a majority of the React components and I worked on Redux.
 
