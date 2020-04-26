@@ -2,11 +2,13 @@
 template: BlogPost
 path: /haircare
 date: 2019-07-18T17:01:05.332Z
-title: 'Build Week Project - Hair Care '
+title: "Build Week Project - Hair Care "
 thumbnail: /assets/haircare.png
-metaDescription: 'build week, Lambda School'
+metaDescription: build week, Lambda School
 ---
 ## My role was a Front-End Architect during this third build week project for Lambda School.
+
+### Built with: React, Redux, Java, + OAuth2
 
 I helped two other women, [Jade Lopez](https://github.com/jadeli1720) and [Eunice Baiden](https://github.com/ebisLab) build out the front-end part of this project. They fleshed out a majority of the React components and I worked on Redux.
 
@@ -20,7 +22,7 @@ We spent [roughly ~30 hours](https://wakatime.com/@1a34e01d-6590-4454-8ec0-e3082
 
 Our assignment was to create a site that operated as Yelp, but for hair stylists. It's a go-to quick lookup for local hair stylists so that any curious customer can find the information they need to make a decision about booking an appointment. 
 
-![services](/assets/Screen Shot 2020-04-20 at 1.23.50 PM.png "Services")
+![services](/assets/hc2.png "Services")
 
 **Profile Feature**
 
