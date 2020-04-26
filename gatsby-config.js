@@ -7,8 +7,8 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Katie Rose Felten - Web Developer`,
-    description: `A portfolio for what I'm working on.`,
+    title: `katierose.dev`,
+    description: `Software engineer based in Atlanta, GA.`,
     siteUrl: `https://ktrosedev.netlify.app/`,
     home: {
       title: ``,
