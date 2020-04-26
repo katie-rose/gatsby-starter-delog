@@ -4,12 +4,14 @@ path: /mentorme
 date: 2019-05-24T17:50:36.781Z
 title: Build Week Project - Mentor Me
 thumbnail: /assets/mentorme.png
-metaDescription: 'build week, Lambda School'
-siteLink: '## [Mentor Me](https://mentorme-katie.netlify.app/)'
+metaDescription: build week, Lambda School
+siteLink: "## [Mentor Me](https://mentorme-katie.netlify.app/)"
 ---
 ## My role was a UI Developer during this first build week project for Lambda School.
 
-It's basically a fancy way of saying I had to make a website built only with HTML/CSS that described the product and it's features. 
+### Built with: HTML/CSS
+
+My goal was to make a website built only with HTML/CSS that described the product and it's features. 
 
 **What is Build Week?** Every fifth week at Lambda School is Build Week, where we spend four days with a small team of students from different cohorts building out a more robust project.
 
