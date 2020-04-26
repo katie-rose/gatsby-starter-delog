@@ -6,7 +6,7 @@ title: NASA Photo Of The Day
 thumbnail: /assets/nasapod.png
 metaDescription: NASA, React
 ---
-## This was a small React project that I got super interested in and fleshed out.
+## This was a small React project that I got super interested in and had fun with.
 
 ### Built with: React, vanilla CSS, NASA [APOD API](https://api.nasa.gov/)
 
