@@ -9,7 +9,7 @@ siteLink: ""
 ---
 ## [Key Conservation](https://keyconservation.org/) is helping conservationists gain critical funding and global support through a mobile app that provides real-time updates on day-to-day campaigns.
 
-### Built with: React Native, vanilla CSS, + Node.js
+### Built with: React Native, vanilla CSS, + Node.js  |  [Github](https://github.com/Lambda-School-Labs/key-conservation-mobile)
 
 I was a Team Lead for this project for 6 months and a student for 16 weeks.
 
