@@ -19,7 +19,10 @@ const ContactPage = ({ data: { site } }) => {
           }}
         >
           <h1 className='post-title'>Get in Touch</h1>
-          <p>Let me help you kick start your next project &rarr;</p>
+          <p>
+            Are you hiring? I'm looking for a remote role, mostly focused on all
+            things front-end. &rarr;
+          </p>
         </div>
         <div>
           <p>
