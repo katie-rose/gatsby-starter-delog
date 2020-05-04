@@ -14,7 +14,7 @@ This was the first time I dipped my toes into the sea of dark mode and I had a l
 
 The cryptocurrency tracker was already in place. It was our job to simply add dark mode to this project by creating a custom hook that lets you save data to localStorage.
 
-First, I created a function called `useLocalStorage`.
+My first custom hook I needed to create was called `useLocalStorage`.
 
 ```javascript
 import { useState } from "react";
