@@ -16,7 +16,7 @@ The cryptocurrency tracker was already in place. It was our job to simply add da
 
 First, I created a function called `useLocalStorage`.
 
-```
+```javascript
 import { useState } from "react";
 
 export const useLocalStorage = (key, initialValue) => {
@@ -38,7 +38,7 @@ I then created another custom hook called `useDarkMode` that imports `useLocalSt
 
 Our dark mode setup has a default value of `false` aka Light Mode aka I have never heard a more accurate statement.
 
-```
+```javascript
 import { useEffect } from "react";
 import { useLocalStorage } from "./useLocalStorage";
 
@@ -59,7 +59,7 @@ This was then pulled into the navbar where the dark mode buttons resided.
 
 `useState` was removed and replaced with the custom gook `useDarkMode`.
 
-```
+```javascript
 import React from 'react';
 import { useDarkMode } from '../hooks/useDarkMode';
 
