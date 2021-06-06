@@ -14,13 +14,14 @@ const ContactPage = ({ data: { site } }) => {
         <div
           className='post-thumbnail'
           style={{
-            backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`,
+            backgroundImage: `url('/assets/phone.jpg')`,
             marginBottom: 0,
           }}
         >
           <h1 className='post-title'>Get in Touch</h1>
           <p>
-            Are you hiring? I'm looking for a remote role, mostly focused on helping to build and manage technical projects for the web. &rarr;
+            Are you hiring? I'm looking for a remote role, mostly focused on
+            helping to build and manage technical projects for the web. &rarr;
           </p>
         </div>
         <div>
@@ -44,7 +45,7 @@ const ContactPage = ({ data: { site } }) => {
               {' '}
               twitter.com/rosethekatie
             </a>
-          </p>*/}  
+          </p>*/}
         </div>
       </div>
     </Layout>
