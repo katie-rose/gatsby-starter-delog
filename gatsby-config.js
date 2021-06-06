@@ -12,7 +12,7 @@ module.exports = {
     siteUrl: `https://ktrosedev.netlify.app/`,
     home: {
       title: ``,
-      description: `💻 I'm a frontend developer turned project manager who is exploring her code curiosity. Take a look at my recent projects below.`,
+      description: `💻 I'm a frontend developer turned project manager who is exploring her code curiosity.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify`,
