@@ -37,15 +37,15 @@ const ContactPage = ({ data: { site } }) => {
             </span>
             <a href='https://github.com/katie-rose'> github.com/katie-rose</a>
           </p>
-          {/*<p>
-            <span role='img' aria-label='Bird'>
-              🐦
+          <p>
+            <span role='img' aria-label='Memo'>
+              📝
             </span>
-            <a href='https://twitter.com/katierose'>
+            <a href='https://linkedin.com/in/kfelten'>
               {' '}
-              twitter.com/rosethekatie
+              linkedin.com/in/kfelten
             </a>
-          </p>*/}
+          </p>
         </div>
       </div>
     </Layout>

@@ -11,8 +11,8 @@ module.exports = {
     description: `Frontend Dev & Project Manager`,
     siteUrl: `https://ktrosedev.netlify.app/`,
     home: {
-      title: ``,
-      description: `💻 I'm a frontend developer turned project manager who is exploring her code curiosity.`,
+      title: `👩‍💻`,
+      description: `I'm a frontend web developer turned project manager who is exploring her code curiosity. ✨`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify`,
