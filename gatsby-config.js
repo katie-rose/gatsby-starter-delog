@@ -8,11 +8,11 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `katierose.dev`,
-    description: `Software engineer based in Atlanta, GA.`,
+    description: `Frontend Dev & Project Manager`,
     siteUrl: `https://ktrosedev.netlify.app/`,
     home: {
       title: ``,
-      description: `💻 I'm interested in working with React, React Native, Node.js, JAMstack solutions, and more. 🍑 Based in Atlanta, GA.`,
+      description: `💻 I'm a frontend developer turned project manager who is exploring her code curiosity. Take a look at my recent projects below.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify`,
