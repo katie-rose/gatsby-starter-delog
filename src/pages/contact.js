@@ -20,8 +20,7 @@ const ContactPage = ({ data: { site } }) => {
         >
           <h1 className='post-title'>Get in Touch</h1>
           <p>
-            Are you hiring? I'm looking for a remote role, mostly focused on all
-            things front-end. &rarr;
+            Are you hiring? I'm looking for a remote role, mostly focused on helping to build and manage technical projects for the web. &rarr;
           </p>
         </div>
         <div>
@@ -37,7 +36,7 @@ const ContactPage = ({ data: { site } }) => {
             </span>
             <a href='https://github.com/katie-rose'> github.com/katie-rose</a>
           </p>
-          <p>
+          {/*<p>
             <span role='img' aria-label='Bird'>
               🐦
             </span>
@@ -45,7 +44,7 @@ const ContactPage = ({ data: { site } }) => {
               {' '}
               twitter.com/rosethekatie
             </a>
-          </p>
+          </p>*/}  
         </div>
       </div>
     </Layout>
